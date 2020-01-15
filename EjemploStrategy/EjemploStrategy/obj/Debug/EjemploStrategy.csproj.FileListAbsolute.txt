@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\obj\Debug\EjemploStrategy.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\obj\Debug\EjemploStrategy.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\bin\Debug\EjemploStrategy.exe.config
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\bin\Debug\EjemploStrategy.exe
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\bin\Debug\EjemploStrategy.pdb
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\obj\Debug\EjemploStrategy.exe
+C:\Users\carlos.can\source\repos\EjemploStrategy\EjemploStrategy\obj\Debug\EjemploStrategy.pdb
